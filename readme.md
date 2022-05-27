@@ -45,7 +45,7 @@ Web : https://github.com/JonathasCostaAlves/nlw-return-impulse-web
 </br>
  
  
-![Demo](./screenshots/screenshot.gif)
+![Demo](./screenshots/screenshot.gif) 
  
  
  
@@ -55,7 +55,7 @@ Web : https://github.com/JonathasCostaAlves/nlw-return-impulse-web
 ## Resultado do projeto
 </br>
  
-O projeto está funcional e a apk está disponível neste repositório : < Colocar o link aqui >
+O projeto está funcional e a apk está disponível neste repositório : [Link](./apk/mobile-33949becbd4e4d61b93faec866dd520d-signed%20(1).apk)
  
 </br></br>
  
