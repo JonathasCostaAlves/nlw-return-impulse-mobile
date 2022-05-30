@@ -59,13 +59,16 @@ O projeto está funcional e a apk está disponível neste repositório : [Link](
  
 </br></br>
  
+
  
-:construction::rocket: Ainda em construção :rocket: :construction:
+:construction:  :rocket: Ainda em construção :rocket: :construction:
  
+
+
  
 ## Rodando a aplicação
  
-Para rodar a aplicação no seu ambiente de desenvolvimento siga os passos abaixo, uma outra opção é fazer o download da apk disponível no link acima e instalar no seu smartphone, lembrando que essa opção é para para sistemas Android.
+Para rodar a aplicação no seu ambiente de desenvolvimento siga os passos abaixo, uma outra opção é fazer o download da APK disponível no link acima e instalar no seu smartphone, lembrando que essa opção está disponível sistemas Android, caso precise para sistemas IOS siga os passos da documentação do própio [expo](https://expo.dev/).
  
  
 #### Clone este repositório
@@ -85,7 +88,9 @@ $ npm install
 $ expo start
 ```
  
-#### Como visualizar com o expo
+</br></br>
+
+## Como visualizar com o expo?
  
 Primeiro é necessário baixar o expo na sua loja de aplicativos:
  
@@ -124,7 +129,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
 Geralmente os eventos da Rocketseat são muito intensos e repletos de novos conhecimentos, esse não foi diferente, desenvolver uma aplicação simples porém com boas práticas seguindo os princípios do SOLID  e utilizando TypeScript foi uma experiência sensacional.
  
-Alguns pontos foram sensacionais como a utilização de algumas dependências além do próprio uso do expo por exemplo 'React Native Bottom Sheet' para criação do modal junto com o 'Gesture Handler' que faz o controle dos gesto ou toque em tela, além de fechar com chave de ouro com detalhes de com utilização de imagens SVG, animações, screenshot da tela e preocupações que só quem domina o desenvolvimento mobile teria como a utilização da biblioteca 'React Native iphone x helper' que já estiliza a aplicação para ser utilizada no Iphone X que tem um entalhe na tela.
+Alguns pontos foram fantásticos,como a utilização de algumas dependências a exemplo do expo, 'React Native Bottom Sheet' para criação do modal junto com o 'Gesture Handler' que faz o controle dos gestos/toques em tela, além de fechar com chave de ouro com detalhes na utilização de imagens SVG, animações, screenshot da tela e preocupações que só quem tem o dominio do desenvolvimento mobile teria, como a utilização da biblioteca 'React Native iphone x helper' que já estiliza a aplicação para ser utilizada no Iphone X que tem um entalhe na tela.
+
  
 Em resumo, foi demais poder participar dessa Next Level Week Return valeu <a href="https://www.rocketseat.com.br/" target="_blank"> RocketSeat </a>!
  
