@@ -27,7 +27,7 @@ Projeto de um componente para feedback desenvolvido em React Native com TypeScri
  
 Esse front-end é a interface mobile do usuário responsável por enviar o feedback para a API que resolve, salva no banco de dados e  envia um e-mail para a equipe.
  
-Toda aplicação foi desenvolvida na NLW Return, evento realizado pela Rocketseat composto por três módulos server, mobile e web. Nesse repositório está o que foi produzido no módulo web.
+Toda aplicação foi desenvolvida na NLW Return, evento realizado pela Rocketseat composto por três módulos server, mobile e web. Nesse repositório está o que foi produzido no módulo mobile.
  
 Seguem os links para os outros repositórios.
  
