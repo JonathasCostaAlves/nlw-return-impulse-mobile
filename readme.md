@@ -129,7 +129,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
 Geralmente os eventos da Rocketseat são muito intensos e repletos de novos conhecimentos, esse não foi diferente, desenvolver uma aplicação simples porém com boas práticas seguindo os princípios do SOLID  e utilizando TypeScript foi uma experiência sensacional.
  
-Alguns pontos foram fantásticos,como a utilização de algumas dependências a exemplo do expo, 'React Native Bottom Sheet' para criação do modal junto com o 'Gesture Handler' que faz o controle dos gestos/toques em tela, além de fechar com chave de ouro com detalhes na utilização de imagens SVG, animações, screenshot da tela e preocupações que só quem tem o dominio do desenvolvimento mobile teria, como a utilização da biblioteca 'React Native iphone x helper' que já estiliza a aplicação para ser utilizada no Iphone X que tem um entalhe na tela.
+Alguns pontos foram fantásticos, como a utilização de algumas dependências a exemplo do expo, 'React Native Bottom Sheet' para criação do modal e o 'Gesture Handler' que faz o controle dos gestos/toques em tela, além de fechar com chave de ouro com detalhes na utilização de imagens SVG, animações, screenshot da tela e preocupações que só quem tem o dominio do desenvolvimento mobile teria, como a utilização da biblioteca 'React Native iphone x helper' que já estiliza a aplicação para ser utilizada no Iphone X que tem um entalhe na tela.
 
  
 Em resumo, foi demais poder participar dessa Next Level Week Return valeu <a href="https://www.rocketseat.com.br/" target="_blank"> RocketSeat </a>!
